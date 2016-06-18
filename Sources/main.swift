@@ -4,7 +4,6 @@ import Glibc
 import Inquiline
 import Curassow
 
-
 serve { _ in
-  return Response(.Ok, contentType: "text/plain", body: "Swift server RESTing")
+  return Response(.Ok, contentType: "text/plain", body: "Swift server REST")
 }
