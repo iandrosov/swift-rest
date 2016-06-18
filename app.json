@@ -1,0 +1,16 @@
+{
+    "name": "Swift REST Example",
+    "description": "An example application using Swift on Heroku.",
+    "repository": "https://github.com/iandrosov/swift-rest.git",
+    "website": "https://github.com/iandrosov/swift-rest.git",
+    "keywords": [
+        "swift",
+        "curassow",
+        "REST"
+    ],
+    "buildpacks": [
+        {
+            "url": "https://github.com/kylef/heroku-buildpack-swift"
+        }
+    ]
+}
