@@ -1,3 +1,3 @@
 # swift-rest
 
-Testing Swift on Heroku
+Testing Serve-Side Swift REST API on Heroku
